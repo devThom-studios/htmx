@@ -106,6 +106,3 @@ You can also run live tests and demo of the WebSockets and Server-Side Events ex
 
 ## haiku
 
-*javascript fatigue:<br/>
-longing for a hypertext<br/>
-already in hand*
