@@ -1,6 +1,6 @@
 [![</> htmx](https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png "high power tools for HTML")](https://htmx.org)
 
-
+*high power tools for HTML*
 
 [![Discord](https://img.shields.io/discord/725789699527933952)](https://htmx.org/discord)
 [![Netlify](https://img.shields.io/netlify/dba3fc85-d9c9-476a-a35a-e52a632cef78)](https://app.netlify.com/sites/htmx/deploys)
