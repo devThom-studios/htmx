@@ -20,7 +20,7 @@ htmx is small ([~14k min.gz'd](https://unpkg.com/htmx.org/dist/)),
 [extendable](https://htmx.org/extensions) &
 IE11 compatible
 
-## motivation
+
 
 * Why should only `<a>` and `<form>` be able to make HTTP requests?
 * Why should only `click` & `submit` events trigger them?
